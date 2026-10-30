@@ -1,0 +1,12 @@
+# Local deployment archives
+*.zip
+
+# Sample candidate files may contain personal information
+/sample_resumes/
+
+# Local diagnostic utilities and unauthenticated maintenance endpoints
+/backend/fix.php
+/backend/scratch_check_db.php
+/backend/public/clean-database.php
+/backend/public/fix.php
+/backend/public/install.php
